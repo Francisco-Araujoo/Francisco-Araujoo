@@ -1,16 +1,39 @@
-## Hi there 👋
+## Francisco Araújo 👋
 
-<!--
-**Francisco-Araujoo/Francisco-Araujoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim  
+🔹 **Nome:** Francisco Araújo  
+🔹 **Idade:** 19 anos  
+🔹 **Cidade:** Londrina - PR  
+🔹 **Faculdade:** Engenharia de Software - Anhanguera (2º semestre)  
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias que trabalho profissionalmente  
+✔️ **Linguagens e Frameworks:**  
+- JavaScript (Full Stack)  
+- Node.js  
+- React.js  
+- Next.js  
+- Tailwind CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ **Banco de Dados:**  
+- MySQL (usando `mysql2/promise`)  
+- AWS RDS  
+
+✔️ **DevOps & Cloud:**  
+- AWS (us-east-1)  
+- Netlify  
+
+✔️ **Autenticação & Segurança:**  
+- JWT  
+- bcryptjs  
+
+### 🛠️ Outras tecnologias que utilizo  
+- HTML, CSS  
+- TypeScript  
+- Express.js  
+- Prisma  
+- Resend (para envio de emails)  
+
+### 📫 Como me encontrar  
+🔗 [LinkedIn](#) | 📧 [Email](#)  
+
+⚡ _"Apaixonado por desenvolvimento e sempre em busca de novos desafios."_  
