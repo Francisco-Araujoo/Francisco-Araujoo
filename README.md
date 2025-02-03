@@ -1,4 +1,6 @@
-## Francisco Araújo 👋  
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FFFF&width=500&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Francisco+Araújo+🚀" alt="Typing SVG">
+</h1>
 
 ### 💻 Sobre mim  
 🔹 **Nome:** Francisco Araújo  
