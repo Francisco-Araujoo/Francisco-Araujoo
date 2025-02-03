@@ -34,6 +34,6 @@
 </p>  
 
 ### 📫 Como me encontrar  
-🔗 [LinkedIn](#) | 📧 [Email](#)  
+🔗 [Instragram](https://www.instragram.com/fraanciis_co?igshdHd5YWplbHp2ZGVk) | 📧 [Email](faculdadeengenhariadesoftware@gmail.com)  
 
 ⚡ _"Apaixonado por desenvolvimento e sempre em busca de novos desafios."_  
