@@ -6,7 +6,7 @@
 
 ### 💻 Sobre Mim  
 🔹 **Nome:** Francisco Araújo  
-🔹 **Idade:** 19 anos  
+🔹 **Idade:** 20 anos  
 🔹 **Localização:** Londrina, PR - Brasil  
 🔹 **Formação:** Engenharia de Software - Anhanguera (2º Ano)  
 
